@@ -1,7 +1,6 @@
 - 👋 Hi, @agilit-devs
 - 👀 I’m interested in python and php web apps
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Odoo (Community Edition) features
 - 📫 How to reach me: devs@agilit.com.co
 
 <!---
